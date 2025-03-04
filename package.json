@@ -4,7 +4,7 @@
   "description": "using typescript to build nodejs app first time",
   "main": "index.js",
   "dependencies": {
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
